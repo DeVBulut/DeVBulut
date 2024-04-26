@@ -19,19 +19,19 @@ const EmirhanBulut = {
 
   code:  [ C#, C++, Python, Java, HTML, CSS],
   tools: [
-  - **Game Engines:** Unity, Unreal Engine
-  - **IDE:** Visual Studio Code, Visual Studio 2022, Eclipse
-  - **Version Control:** Git
-  - **Graphics:** Blender, Photoshop, Illustrator
-  - **Physics Engines:** PhysX(Unity), PhysX(UE5)
-  - **Project Management:** JIRA, Trello
-  - **VR/AR Development:** Oculus SDK, ARKit, ARCore
-  - **Analytics:** Unity Analytics, Google Analytics
-  - **Ad Platforms:** Unity Ads
-  - **Game Services:** Steamworks, Xbox Live, DeV Epic Games
-  - **Monetization:** IAP (In-App Purchases)
-  - **Continuous Integration/Deployment:** GitHub Actions
-  - **Cloud Services:** AWS, Azure
+  - **Game Engines: Unity, Unreal Engine
+  - **IDE: Visual Studio Code, Visual Studio 2022, Eclipse
+  - **Version Control: Git
+  - **Graphics: Blender, Photoshop, Illustrator
+  - **Physics Engines: PhysX(Unity), PhysX(UE5)
+  - **Project Management: JIRA, Trello
+  - **VR/AR Development: Oculus SDK, ARKit, ARCore
+  - **Analytics: Unity Analytics, Google Analytics
+  - **Ad Platforms: Unity Ads
+  - **Game Services: Steamworks, Xbox Live, DeV Epic Games
+  - **Monetization: IAP (In-App Purchases)
+  - **Continuous Integration/Deployment: GitHub Actions
+  - **Cloud Services: AWS, Azure
   ],
   skills: {
                 langugages: "English/Turkish/German",
