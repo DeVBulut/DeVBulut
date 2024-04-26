@@ -1,19 +1,18 @@
 ### Hi there 👋
 
 <h2> I'm Han (Emirhan Bulut)!</h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h1dTQ5am9rNG5ncWo2cDlxd2Jyc2kwdGUwaTZzNTBmY28yd21mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="350">
-<p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a><img src="https://www.suu.edu/logos/thor.png" width="150"> 
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlscmVwdDk3NjZqMjdpb3htOWJwejllOGcxc21ubnR3cTMzeDBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="325">
+<p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
+<p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
 <p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="300"> 
 </em></p>
-  
-[![Website: Han](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://emirhanbulut.com/)
-[![Instagram: Han](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emrhn_bulut/)
+### My Website: emirhanbulut.com  
 [![Linkedin: Han](https://img.shields.io/badge/-EmirhanBulut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/emirhan-bulut/)
 [![GitHub Han](https://img.shields.io/github/followers/DeVBulut?label=follow&style=social)](https://github.com/DeVBulut)
 
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGxvd29wOGhqOHViOGEwczgyMDB0djRiZHQycTJyOGo3MDU0MGN1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const EmirhanBulut = {
@@ -50,7 +49,7 @@ const EmirhanBulut = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU4ejZreHc0azJkNTM4MHJyZXFxYjlsZzlxdDRsb29sZzg1eWRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="360"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmRvejN6dWNxMTNucjl1bGM3M2pwdGJyYnd6bGJ4eTNpbGl2ZjZheSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif" width="150"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
