@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <h2> I'm Han (Emirhan Bulut)!</h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlscmVwdDk3NjZqMjdpb3htOWJwejllOGcxc21ubnR3cTMzeDBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="265">
-<p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlscmVwdDk3NjZqMjdpb3htOWJwejllOGcxc21ubnR3cTMzeDBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="280">
 <p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
 <p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="300"> 
