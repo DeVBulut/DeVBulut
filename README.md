@@ -16,9 +16,9 @@
 
 ```javascript
 const EmirhanBulut = {
-  pronouns: ["he" | "him"]
-  code:     [ C#, C++, Python, Java, HTML, CSS],
-  tools:    [
+
+  code:  [ C#, C++, Python, Java, HTML, CSS],
+  tools: [
   - **Game Engines:** Unity, Unreal Engine
   - **IDE:** Visual Studio Code, Visual Studio 2022, Eclipse
   - **Version Control:** Git
