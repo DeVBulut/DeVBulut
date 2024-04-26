@@ -34,14 +34,14 @@ const EmirhanBulut = {
   - **Cloud Services: AWS, Azure
   ],
   skills: {
-                langugages: "English/Turkish/German",
+                languages: "English/Turkish/German",
 
-                projects:        [2D Player Controller, 3D Physics Engine(Built from scratch), Rhythm Game,
+                projects:        [2D Player Controller, 3D Physics Engine(Built From Scratch), Rhythm Game,
                                   Parallel Computing Chatbot, Fully Operational Discord Bot],
 
-                workExperiences: [{companyName:"Southern Utah University", role:"Tier II Information Technology Technician"},
-                                  {companyName:"Southern Utah University", role:"Tier I Information Technology Technician"},
-                                  {companyName:"guven-internet-cafe", role:"Hardware Technician"},]
+                work-experiences: [{companyName: "Southern Utah University", role: "Tier II Information Technology Technician"},
+                                  {companyName: "Southern Utah University", role: "Tier I Information Technology Technician"},
+                                  {companyName:"guven-internet-cafe", role: "Hardware Technician"},]
 
 
                                            
@@ -49,7 +49,7 @@ const EmirhanBulut = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU3cm55eHFtem4xNXFzOWpscGNtMGZuaDJhZTI5MWUxZTI2ZnZhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="100"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU3cm55eHFtem4xNXFzOWpscGNtMGZuaDJhZTI5MWUxZTI2ZnZhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PTBVMsYIOB0SBP4MVe/giphy-downsized-large.gif" width="250"> 
 <em><b>I like learning from people and honing my skills to their best!</b> :)</em>
 ---
  
