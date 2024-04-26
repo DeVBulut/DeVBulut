@@ -34,14 +34,14 @@ const EmirhanBulut = {
   - **Cloud Services: AWS, Azure
   ],
   skills: {
-                languages: "English/Turkish/German",
+             languages: "English/Turkish/German",
 
-                projects:        [2D Player Controller, 3D Physics Engine(Built From Scratch), Rhythm Game,
-                                  Parallel Computing Chatbot, Fully Operational Discord Bot],
+             projects:        [2D Player Controller, 3D Physics Engine(Built From Scratch), Rhythm Game,
+                               Parallel Computing Chatbot, Fully Operational Discord Bot],
 
-                work-experiences: [{companyName: "Southern Utah University", role: "Tier II Information Technology Technician"},
-                                  {companyName: "Southern Utah University", role: "Tier I Information Technology Technician"},
-                                  {companyName:"guven-internet-cafe", role: "Hardware Technician"},]
+             work-experiences: [{companyName: "Southern Utah University", role: "Tier II Information Technology Technician"},
+                                {companyName: "Southern Utah University", role: "Tier I Information Technology Technician"},
+                                {companyName:"guven-internet-cafe", role: "Hardware Technician"},]
 
 
                                            
