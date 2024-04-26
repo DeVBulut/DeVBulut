@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h2> I'm Han (Emirhan Bulut)!</h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDlscmVwdDk3NjZqMjdpb3htOWJwejllOGcxc21ubnR3cTMzeDBrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif" width="280">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxajR5cG9wZW82ZWJtOHQ0enE3NjB3Mmx3bTNiMDVnOTk0NjQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi9q6kkhLiJVx3L8TO/giphy.gif" width="280">
 <p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
 <p><em>You can find my WEBSITE at <a href="https://emirhanbulut.com/">EmirhanBulut.</a>
