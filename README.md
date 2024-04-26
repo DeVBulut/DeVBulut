@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<h2> I'm Han (Emirhan Bulut)! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h1dTQ5am9rNG5ncWo2cDlxd2Jyc2kwdGUwaTZzNTBmY28yd21mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="100">
-<p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a><img src="https://www.suu.edu/logos/thor.png" width="100"> 
-<p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">SUU IT.</a>
-<p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="30"> 
+<h2> I'm Han (Emirhan Bulut)! <img src="https://media.giphy.com/media/S8kcDWOvua4l6lJ0Az/source.gif" width="350"></h2>
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2h1dTQ5am9rNG5ncWo2cDlxd2Jyc2kwdGUwaTZzNTBmY28yd21mbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="350">
+<p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a><img src="https://www.suu.edu/logos/thor.png" width="250"> 
+<p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
+<p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="250"> 
 </em></p>
   
 [![Website: Han](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://emirhanbulut.com/)
@@ -50,7 +50,7 @@ const EmirhanBulut = {
 }
 ```
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU4ejZreHc0azJkNTM4MHJyZXFxYjlsZzlxdDRsb29sZzg1eWRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="60"> 
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWU4ejZreHc0azJkNTM4MHJyZXFxYjlsZzlxdDRsb29sZzg1eWRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="360"> 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
