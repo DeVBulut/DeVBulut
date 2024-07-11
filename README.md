@@ -4,6 +4,8 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxajR5cG9wZW82ZWJtOHQ0enE3NjB3Mmx3bTNiMDVnOTk0NjQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi9q6kkhLiJVx3L8TO/giphy.gif" width="350">
 <p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
+<p><em>Lead Programmer<a href="https://www.linkedin.com/company/p1-games/">P1 Games.</a>
+<p><em>Programmer at Kwaza Games.</a>
 <p><em>You can find my WEBSITE at <a href="https://emirhanbulut.com/">EmirhanBulut.</a>
 <p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="300"> 
 </em></p>  
