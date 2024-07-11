@@ -3,7 +3,7 @@
 <h2> I'm Han (Emirhan Bulut)!</h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxajR5cG9wZW82ZWJtOHQ0enE3NjB3Mmx3bTNiMDVnOTk0NjQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi9q6kkhLiJVx3L8TO/giphy.gif" width="350">
 <p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
-<p><em>Information Technology Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
+<p><em>Specialized LAB IT Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
 <p><em>Lead Programmer at <a href="https://www.linkedin.com/company/p1-games/">P1 Games.</a>
 <p><em>Programmer at Kwaza Games.</a>
 <p><em>You can find my WEBSITE at <a href="https://emirhanbulut.com/">EmirhanBulut.</a>
