@@ -5,7 +5,6 @@
 <p><em>President of Game Developer's Club at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Specialized LAB IT Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
 <p><em>Lead Programmer at <a href="https://www.linkedin.com/company/p1-games/">P1 Games.</a>
-<p><em>Programmer at Kwaza Games.</a>
 <p><em>You can find my WEBSITE at <a href="https://emirhanbulut.com/">EmirhanBulut.</a>
 <p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="300"> 
 </em></p>  
@@ -41,7 +40,9 @@ const EmirhanBulut = {
              projects:        [2D Player Controller, 3D Physics Engine(Built From Scratch), Rhythm Game,
                                Parallel Computing Chatbot, Fully Operational Discord Bot],
 
-             work-experiences: [{companyName: "Southern Utah University", role: "Tier II Information Technology Technician"},
+             work-experiences: [{companyName: "P1 GAMES", role: "Lead Programmer"}
+                                {companyName: "Kwaza Games", role: "Gameplay Programmer"}
+                                {companyName: "Southern Utah University", role: "Tier II Information Technology Technician"},
                                 {companyName: "Southern Utah University", role: "Tier I Information Technology Technician"},
                                 {companyName:"guven-internet-cafe", role: "Hardware Technician"},]
 
