@@ -4,8 +4,9 @@
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBxajR5cG9wZW82ZWJtOHQ0enE3NjB3Mmx3bTNiMDVnOTk0NjQ0YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vi9q6kkhLiJVx3L8TO/giphy.gif" width="350">
 <p><em>President of Game Developer's Community at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Specialized LAB IT Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
+<p><em>Software Engineer Intern at <a href="https://idori.com/">Idori.</a>
 <p><em>You can find my WEBSITE at <a href="https://emirhanbulut.com/">EmirhanBulut.</a>
-<p><em>Lookings for Software Engineer or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="300"> 
+<p><em>Lookings for Software Engineer Intern or Game Developer/Programmer opportunities<img src="https://cms-assets.themuse.com/media/lead/_1200x630_crop_center-center_82_none/12574.jpg?mtime=1568862584" width="300"> 
 </em></p>  
 
 [![Linkedin: Han](https://img.shields.io/badge/-EmirhanBulut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/emirhan-bulut/)
