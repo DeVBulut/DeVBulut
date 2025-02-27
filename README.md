@@ -42,7 +42,7 @@ const EmirhanBulut = {
                                 {companyName: "Southern Utah University", role: "Tier II IT Technician"},
                                 {companyName: "P1 GAMES",                 role: "Lead Software Programmer"},
                                 {companyName: "Kwaza Games",              role: "Unity Developer Intern"},
-                                {companyName:"guven-internet-cafe",       role: "Hardware Technician"},]
+                                {companyName: "guven-internet-cafe",      role: "Hardware Technician"},]
 
 
                                            
