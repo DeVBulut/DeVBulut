@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h2> I'm Han (Emirhan Bulut)!</h2>
+<h2> I'm Han!</h2>
 <p><em>President of Game Developer's Community at <a href="https://www.suu.edu/">Southern Utah University.</a>> 
 <p><em>Specialized LAB IT Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
 <p><em>Software Engineer Intern at <a href="https://idori.com/">Idori.</a>
