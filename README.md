@@ -7,6 +7,7 @@
 </em></p>  
 
 [![Linkedin: Han](https://img.shields.io/badge/-EmirhanBulut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashif-zafar-70618434/)](https://www.linkedin.com/in/emirhan-bulut/)
+<p><em>-</a>
 [![GitHub Han](https://img.shields.io/github/followers/DeVBulut?label=follow&style=social)](https://github.com/DeVBulut)
 
 
