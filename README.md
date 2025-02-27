@@ -32,19 +32,14 @@ const EmirhanBulut = {
   - **Continuous Integration/Deployment: GitHub Actions
   - **Cloud Services: AWS, Azure
   ],
-  skills: {
-             languages: "English/Turkish/German",
-
-             projects:        [2D Player Controller, 3D Physics Engine(Built From Scratch), Rhythm Game,
-                               Parallel Computing Chatbot, Fully Operational Discord Bot],
-
+  CV: {
              work-experiences: [{companyName: "Idori",                    role: "Software Engineer Intern"},
                                 {companyName: "Southern Utah University", role: "Tier II IT Technician"},
                                 {companyName: "P1 GAMES",                 role: "Lead Software Programmer"},
                                 {companyName: "Kwaza Games",              role: "Unity Developer Intern"},
                                 {companyName: "guven-internet-cafe",      role: "Hardware Technician"},]
 
-
+            languages: "English/Turkish/German",
                                            
            },
 }
