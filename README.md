@@ -17,22 +17,24 @@
 const EmirhanBulut = {
 
   code:  [ C#, C++, C, Python, XAML],
+
   tools: [
-  - **Game Engines: Unity, Unreal Engine
-  - **IDE: Visual Studio Code, Visual Studio 2022, Eclipse
-  - **Version Control: Git
-  - **Graphics: Blender, Photoshop, Illustrator
-  - **Physics Engines: PhysX(Unity), PhysX(UE5)
-  - **Project Management: JIRA, Trello
-  - **VR/AR Development: Oculus SDK, ARKit, ARCore
-  - **Analytics: Unity Analytics, Google Analytics
-  - **Ad Platforms: Unity Ads
-  - **Game Services: Steamworks, Xbox Live, DeV Epic Games
-  - **Monetization: IAP (In-App Purchases)
-  - **Continuous Integration/Deployment: GitHub Actions
-  - **Cloud Services: AWS, Azure
-  ],
-  CV: {
+    - **Game Engines: Unity, Unreal Engine
+    - **IDE: Visual Studio Code, Visual Studio 2022, Eclipse
+    - **Version Control: Git
+    - **Graphics: Blender, Photoshop, Illustrator
+    - **Physics Engines: PhysX(Unity), PhysX(UE5)
+    - **Project Management: JIRA, Trello
+    - **VR/AR Development: Oculus SDK, ARKit, ARCore
+    - **Analytics: Unity Analytics, Google Analytics
+    - **Ad Platforms: Unity Ads
+    - **Game Services: Steamworks, Xbox Live, DeV Epic Games
+    - **Monetization: IAP (In-App Purchases)
+    - **Continuous Integration/Deployment: GitHub Actions
+    - **Cloud Services: AWS, Azure
+        ],
+
+    CV: {
              work-experiences: [{companyName: "Idori",                    role: "Software Engineer Intern"},
                                 {companyName: "Southern Utah University", role: "Tier II IT Technician"},
                                 {companyName: "P1 GAMES",                 role: "Lead Software Programmer"},
@@ -41,7 +43,7 @@ const EmirhanBulut = {
 
             languages: "English/Turkish/German",
                                            
-           },
+        },
 }
 ```
 
