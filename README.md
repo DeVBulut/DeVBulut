@@ -2,7 +2,7 @@
 
 <h2> I'm Han!</h2>
 <p><em>Specialized Tier II IT Technician at <a href="https://www.suu.edu/it/">Southern Utah University IT.</a>
-<p><em>Software Engineer Intern at <a href="https://idori.com/">Idori.</a>
+<p><em>Software Engineer Intern at <a href="https://idori.com/pages/about-us">Idori.</a>
 <p><em>You can find my WEBSITE at <a href="https://emirhanbulut.com/">EmirhanBulut.</a>
 </em></p>  
 
