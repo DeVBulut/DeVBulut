@@ -16,7 +16,7 @@
 ```javascript
 const EmirhanBulut = {
 
-  code:  [ C#, C++, Python, Java, HTML, CSS],
+  code:  [ C#, C++, C, Python, XAML],
   tools: [
   - **Game Engines: Unity, Unreal Engine
   - **IDE: Visual Studio Code, Visual Studio 2022, Eclipse
@@ -38,11 +38,10 @@ const EmirhanBulut = {
              projects:        [2D Player Controller, 3D Physics Engine(Built From Scratch), Rhythm Game,
                                Parallel Computing Chatbot, Fully Operational Discord Bot],
 
-             work-experiences: [{companyName: "Southern Utah University", role: "Specialized Lab Information Technology Technician"},
-                                {companyName: "P1 GAMES", role: "Lead Programmer"},
-                                {companyName: "Kwaza Games", role: "Gameplay Programmer"},
-                                {companyName: "Southern Utah University", role: "Tier II Information Technology Technician"},
-                                {companyName: "Southern Utah University", role: "Tier I Information Technology Technician"},
+             work-experiences: [{companyName: "Idori", role: "Software Engineer Intern"},
+                                {companyName: "Southern Utah University", role: "Tier II IT Technician"},
+                                {companyName: "P1 GAMES", role: "Lead Software Programmer"},
+                                {companyName: "Kwaza Games", role: "Unity Developer Intern"},
                                 {companyName:"guven-internet-cafe", role: "Hardware Technician"},]
 
 
