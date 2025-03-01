@@ -24,7 +24,7 @@ const EmirhanBulut = {
     - **Graphics: Blender, Photoshop, Illustrator
     - **Physics Engines: PhysX(Unity), PhysX(UE5)
     - **Project Management: JIRA, Trello
-    - **VR/AR Development: Oculus SDK, ARKit, ARCore
+    - **VR/AR Development: Oculus SDK, Meta Quest 3, ARKit, ARCore
     - **Analytics: Unity Analytics, Google Analytics
     - **Ad Platforms: Unity Ads
     - **Game Services: Steamworks, Xbox Live, DeV Epic Games
