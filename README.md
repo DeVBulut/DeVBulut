@@ -39,8 +39,6 @@ const EmirhanBulut = {
                                 {companyName: "P1 GAMES",                 role: "Lead Software Programmer"},
                                 {companyName: "Kwaza Games",              role: "Unity Developer Intern"},
                                 {companyName: "guven-internet-cafe",      role: "Hardware Technician"},]
-
-            languages: "English/Turkish/German",
                                            
         },
 }
