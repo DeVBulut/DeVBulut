@@ -26,7 +26,7 @@ const EmirhanBulut = {
         ],
 
     CV: {
-             work-experiences: [{companyName: "Adobe", role: "Software Engineer"},
+             work-experiences: [{companyName: "Adobe",                    role: "Software Engineer"},
                                 {companyName: "Southern Utah University", role: "Senior IT Technician"},
                                 {companyName: "Idori",                    role: "Software Engineer Intern"},
                                 {companyName: "P1 GAMES",                 role: "Lead Software Programmer"},
